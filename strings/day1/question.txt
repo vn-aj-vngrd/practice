@@ -1,0 +1,17 @@
+Strings:
+
+Easy:
+Question: Check if a string is a palindrome.
+Follow-up: Ignore non-alphanumeric characters and check if the modified string is a palindrome.
+
+Moderate:
+Question: Determine if two strings are anagrams.
+Follow-up: Implement a function to find the minimum number of changes required to make two strings anagrams.
+
+Intermediate:
+Question: Implement a basic string compression algorithm. (e.g., "aabcccccaaa" -> "a2b1c5a3")
+Follow-up: If the compressed string is not smaller than the original, return the original string.
+
+Advanced:
+Question: Given a string, find the longest substring without repeating characters.
+Follow-up: Optimize the solution to achieve linear time complexity.

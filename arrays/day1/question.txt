@@ -1,0 +1,17 @@
+Arrays:
+
+Easy:
+Question: Given an array of integers, find the sum of all elements.
+Follow-up: Find the maximum and minimum elements in the array.
+
+Moderate:
+Question: Given an array of integers, determine if it contains any duplicate elements.
+Follow-up: Find the first duplicate element in the array.
+
+Intermediate:
+Question: Implement an algorithm to rotate an array to the right by k steps.
+Follow-up: Rotate the array in-place without using extra space.
+
+Advanced:
+Question: Given two sorted arrays, merge them into a single sorted array.
+Follow-up: Implement merge sort on an array.
