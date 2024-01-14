@@ -29,9 +29,11 @@ def mergeSort(arr):
     
     return merge(left, right)
 
-arr1 = [1, 3, 5, 7, 9]
-arr2 = [2, 4, 6, 8, 10]
-print(merge(arr1, arr2))
+arr1 = [2, 1, 10, 9, 2]
+arr2 = [4, 7, 6, 8, 3]
+arr = merge(arr1, arr2)
+print(arr)
+print(mergeSort(arr))
     
 
 
